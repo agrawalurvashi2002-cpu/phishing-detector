@@ -1,5 +1,4 @@
-# phishing-detector
-:  🔍 A simple web-based phishing detector that checks URLs for suspicious patterns like '@' symbols, IP addresses, and common phishing keywords using HTML, CSS, and JavaScript.
+
 # 🔍 Phishing Website Detector
 
 A simple, frontend-only web tool that checks a given URL for common phishing patterns such as the use of "@" symbols, suspicious keywords, or IP-based URLs.
